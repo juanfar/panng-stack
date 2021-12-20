@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common'
+import { ApiCoreFeatureModule } from '@panng/api/core/feature'
 
 @Module({
-  imports: [],
+  imports: [ApiCoreFeatureModule],
 })
 export class AppModule {}
