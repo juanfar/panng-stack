@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
-    "dev:api" : "nx serve api",
+    "dev:api": "nx serve api",
     "test": "nx test",
     "format": "nx format:write",
     "format:check": "nx format:check",

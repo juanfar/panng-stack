@@ -3,6 +3,8 @@
   "projects": {
     "api": "apps/api",
     "api-core-data-access": "libs/api/core/data-access",
-    "api-core-feature": "libs/api/core/feature"
+    "api-core-feature": "libs/api/core/feature",
+    "api-listing-data-access": "libs/api/listing/data-access",
+    "api-listing-feature": "libs/api/listing/feature"
   }
 }
